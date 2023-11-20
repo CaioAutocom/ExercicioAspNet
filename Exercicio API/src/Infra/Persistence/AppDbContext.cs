@@ -15,6 +15,7 @@ namespace Infra.Persistence
         }
 
         public DbSet<GrupoProdutoServico> GruposProdutoServico => Set<GrupoProdutoServico>();
+        public DbSet<Cidade> Cidades => Set<Cidade>();
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

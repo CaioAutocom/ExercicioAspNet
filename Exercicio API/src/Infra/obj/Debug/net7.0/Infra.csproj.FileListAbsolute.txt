@@ -13,3 +13,19 @@ C:\Devel\Treinamento API Exercicio\Exercicio API\src\Infra\obj\Debug\net7.0\Infr
 C:\Devel\Treinamento API Exercicio\Exercicio API\src\Infra\obj\Debug\net7.0\refint\Infra.dll
 C:\Devel\Treinamento API Exercicio\Exercicio API\src\Infra\obj\Debug\net7.0\Infra.pdb
 C:\Devel\Treinamento API Exercicio\Exercicio API\src\Infra\obj\Debug\net7.0\ref\Infra.dll
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\obj\Debug\net7.0\Infra.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\obj\Debug\net7.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\obj\Debug\net7.0\Infra.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\obj\Debug\net7.0\Infra.AssemblyInfo.cs
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\obj\Debug\net7.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\obj\Debug\net7.0\Infra.sourcelink.json
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\bin\Debug\net7.0\Infra.deps.json
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\bin\Debug\net7.0\Infra.dll
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\bin\Debug\net7.0\Infra.pdb
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\bin\Debug\net7.0\Domain.dll
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\bin\Debug\net7.0\Domain.pdb
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\obj\Debug\net7.0\Infra.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\obj\Debug\net7.0\Infra.dll
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\obj\Debug\net7.0\refint\Infra.dll
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\obj\Debug\net7.0\Infra.pdb
+C:\Users\Usuario\Source\Repos\ExercicioAspNet\Exercicio API\src\Infra\obj\Debug\net7.0\ref\Infra.dll

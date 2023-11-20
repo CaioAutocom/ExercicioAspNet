@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Infra.Repositories;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -13,6 +14,8 @@ namespace Infra.Persistence
             {
                 options.UseNpgsql(config.GetConnectionString("MainConn"));
             });
+
+            services.AddScoped<IGrupoProdutoServicoRepository, GrupoProdutoServicoRepository>();
             return services;
         }
     }

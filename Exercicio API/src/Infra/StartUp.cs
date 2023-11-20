@@ -1,4 +1,6 @@
-﻿using Infra.Persistence;
+﻿using Infra.Middlewares;
+using Infra.Persistence;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -8,8 +10,16 @@ namespace Infra
     {
         public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration config)
         {
-            services.AddPersistence(config);
+            services
+                .AddMiddlewares()
+                .AddPersistence(config);
             return services;
+        }
+
+        public static IApplicationBuilder UseInfrastructure(this IApplicationBuilder builder, IConfiguration config)
+        {
+            builder.UseExceptionMiddleware();
+            return builder;
         }
     }
 }
